@@ -22,8 +22,6 @@
 
 ## **Introduction**
 
-![Gazebo and Rviz Simulation](images/gazebo_rviz2_simulation.png)
-
 Sabby Robby is a two-wheeled differential drive mobile robot designed and simulated in ROS 2\. This project covers the entire process from CAD design in SolidWorks to simulation in Gazebo and visualization in RViz2. The primary goal of this project is to create a foundational mobile robot platform for further development in areas such as navigation, manipulation, and autonomous systems.
 
 ![Gazebo and Rviz Simulation](images/gazebo_rviz2_simulation.png)
