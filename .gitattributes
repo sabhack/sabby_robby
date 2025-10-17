@@ -1,0 +1,3 @@
+*.urdf linguist-language=XML
+*.xml linguist-language=XML
+*.yaml linguist-language=YAML
