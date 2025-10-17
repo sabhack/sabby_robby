@@ -82,11 +82,15 @@ This will launch Gazebo with the custom world, spawn Sabby Robby, and set up the
 
 ros2 launch sabby\_robby sabby\_robby\_gz.launch.xml
 
+![Gazebo Simulation Image](images/gazebo_simulation_result.png)
+
 ### **Visualizing in RViz2**
 
-This will launch RViz2 with the pre-configured settings to visualize the robot model and TF frames.
+This will launch Rviz2 with the pre-configured settings to visualize the robot model and TF frames.
 
 ros2 launch sabby\_robby display.launch.xml
+
+![Rviz2 Simulation Image](images/rviz2_simulation_result.png)
 
 **Viewing the Camera Feed:** To visualize the live camera feed, add a Camera display in the RViz2 panel. In the display's topic dropdown, select /camera/image\_raw.
 
