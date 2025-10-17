@@ -1,6 +1,5 @@
 # **Sabby Robby \- A Two-Wheeled Differential Drive Mobile Robot**
 
-\!(https://www.google.com/search?q=https://placehold.co/800x400/2d3748/ffffff%3Ftext%3DSabby%2BRobby%2BSimulation)
 
 ## **Table of Contents**
 
